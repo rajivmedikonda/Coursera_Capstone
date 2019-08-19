@@ -1,11 +1,7 @@
 Problem:
 
 The problem we are trying to solve in this project is to provide recommendations about to where to establish the 
-the new businesses like restaurants, bars, grocery stores etc in the San Francisco Bay Area. Also, we will
-provide the recommendations for the real estate business people about where to plan their new commercial or
-residential projects. If data and time permits, the last thing we will try to provide as part of solution of this 
-project is suggesting the government agencies about where to lay new roads and extend the public transportation services.
-
+the new businesses like restaurants, bars, grocery stores etc in the San Francisco Bay Area. 
 
 Data:
 
